@@ -265,7 +265,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*")
 		(path "/e773a521-fd29-4a44-8857-9d61436e8170")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -5.06)
@@ -676,7 +676,7 @@
 		(property ki_fp_filters "DIP*W15.24mm*")
 		(path "/398d7d1f-5107-4f40-8ac9-8d59ff7616c2")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.16 49.59)
@@ -1346,7 +1346,7 @@
 		(property ki_fp_filters "SOIC*14*7mm*P1.27mm*")
 		(path "/247c1fa4-c2c1-4a6f-b69c-0fdb2c4aef83")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 4.435)
@@ -1737,7 +1737,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d7ad2e81-202f-4336-bf75-9572cdb163da")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -2088,7 +2088,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/d8435b01-14af-4229-850a-5b2ea6dd1cb4")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -2397,7 +2397,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/50b148fd-3d15-47e2-b0b5-8df886148a75")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -2650,7 +2650,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/6ad6c0c7-6769-4b21-82f0-98ff0141d151")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -2959,7 +2959,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ebd20123-bb42-467c-8705-7d4b6e023cc3")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -3186,7 +3186,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4bf509b4-f620-48ef-b606-9ae73566693f")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -3460,7 +3460,7 @@
 		)
 		(path "/6c4ce2e2-8a20-462e-89f5-e781b4592d27")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 13.3 12.5)
@@ -4044,7 +4044,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/0ba70784-3d60-430c-85dd-ec0c0321be62")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -4353,7 +4353,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ce8cc4c1-8733-4d6d-a63b-b057ace4c489")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -4580,7 +4580,7 @@
 		(property ki_fp_filters "MINI?DIN*")
 		(path "/b85516cf-a5b7-4c7c-8dac-696f09286d9a")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 0)
@@ -4831,7 +4831,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/12158a0c-d0f4-4d34-9626-f596c113c485")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1 -0.96)
@@ -4997,12 +4997,12 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-8_W7.62mm"
+	(footprint "Package_DIP:DIP-8_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "636f71d9-de50-4c94-9ee5-f063e0ad442d")
 		(at 146.19 102.605 90)
-		(descr "8-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
-		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
+		(descr "8-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
+		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U8"
 			(at 3.81 -2.33 90)
 			(layer "F.SilkS")
@@ -5027,7 +5027,6 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 90)
-			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b6a4516a-f501-477f-9936-adeea4bd43b4")
@@ -5040,7 +5039,6 @@
 		)
 		(property "Description" ""
 			(at 0 0 90)
-			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a010b557-1345-41a6-b72b-bc8aad6b7e83")
@@ -5056,7 +5054,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f21a77af-349e-4ce9-bd70-b0e670898ece")
+			(uuid "616feb25-de1e-496f-8825-d522b89e25d7")
 			(effects
 				(font
 					(size 1 1)
@@ -5069,7 +5067,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "93f535a5-87d2-4105-bc03-933166312115")
+			(uuid "044593c6-5b18-41d9-8823-b5841750eedc")
 			(effects
 				(font
 					(size 1 1)
@@ -5080,7 +5078,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/2bdacd9b-da7d-4b3d-9411-67173fa459f7")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.46 -1.33)
@@ -5090,7 +5088,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0f2b46e0-cda9-4b38-94ef-4db3dd02e2a8")
+			(uuid "ea6641d2-f8ad-4338-bb8f-9a7e0be78f73")
 		)
 		(fp_line
 			(start 2.81 -1.33)
@@ -5100,7 +5098,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e7df1c82-c8e0-4961-accb-6ecd015ab720")
+			(uuid "1cbea7cf-9545-4b1c-be00-ec1f37faf31f")
 		)
 		(fp_line
 			(start 1.16 -1.33)
@@ -5110,7 +5108,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "333f1942-3352-4786-9789-e55f6040edd0")
+			(uuid "225b8eae-5c33-43e1-913f-5b5926ac0e5c")
 		)
 		(fp_line
 			(start 6.46 8.95)
@@ -5120,7 +5118,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "481ea6d1-c8f7-4b03-b28f-037760c0e960")
+			(uuid "05ee5ebf-690c-4d5f-a33c-9ea994d0d12e")
 		)
 		(fp_line
 			(start 1.16 8.95)
@@ -5130,7 +5128,18 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a74b2e15-365f-4635-b782-adeade70fc51")
+			(uuid "39b3328b-e21e-4b76-bdbb-aca397003f32")
+		)
+		(fp_rect
+			(start -1.33 -1.39)
+			(end 8.95 9.01)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "561f3e3d-68ca-47f7-8443-9992a9d15656")
 		)
 		(fp_arc
 			(start 4.81 -1.33)
@@ -5141,18 +5150,18 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f346a7f2-fa26-4cf7-ab1b-b46c8fd13222")
+			(uuid "e513bb96-689b-4714-ae6a-cafcda9c7b1b")
 		)
 		(fp_rect
-			(start -1.06 -1.52)
-			(end 8.67 9.14)
+			(start -1.52 -1.58)
+			(end 9.14 9.2)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "aac9530d-20e1-4064-b832-8b7999eed159")
+			(uuid "47b84150-a920-4f79-a2b5-f7a0a136d07d")
 		)
 		(fp_line
 			(start 6.985 -1.27)
@@ -5162,7 +5171,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4c6927e5-2fb0-41a8-b966-c8c26c93a69b")
+			(uuid "b8e25cbb-3351-4e78-ae69-8c530767c7fc")
 		)
 		(fp_line
 			(start 1.635 -1.27)
@@ -5172,7 +5181,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "41114fbd-d2f6-47ef-81fa-ca8226294ec7")
+			(uuid "2b0545c7-5991-44ba-aaee-f9d21eef2640")
 		)
 		(fp_line
 			(start 0.635 -0.27)
@@ -5182,7 +5191,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0bcfa80a-a407-411d-b976-7cd80b9c7608")
+			(uuid "0348df2b-fd21-4b8d-bb5f-4e6342b0299a")
 		)
 		(fp_line
 			(start 6.985 8.89)
@@ -5192,7 +5201,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9c4d7b62-5304-45b0-af58-65ed491c017c")
+			(uuid "22959ba0-0d25-49c7-b9cf-84a385d2391b")
 		)
 		(fp_line
 			(start 0.635 8.89)
@@ -5202,10 +5211,21 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "12cbf7fd-01e0-4a7c-95f1-83ee15518b1a")
+			(uuid "5dfa32b5-2c94-4a7d-8b32-be4948dc0f69")
+		)
+		(fp_rect
+			(start -1.27 -1.33)
+			(end 8.89 8.95)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "7d35a45b-d6bc-4fec-b50b-5fc270b59508")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 3.81 90)
+			(at 3.81 3.81 180)
 			(layer "F.Fab")
 			(uuid "8d7ab9a8-b80c-462c-9412-b5671497ddc6")
 			(effects
@@ -5305,7 +5325,19 @@
 			(uuid "0ac4d76f-d2a8-4b2f-9504-5e55f9d8cf18")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm_Socket.wrl"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/Local_lib/step_files/DIP-8 W7.62mm IC with Socket.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5400,7 +5432,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/011cd4da-d0cb-41cd-95f0-1f9c1b3bd18f")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -5653,7 +5685,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/267c19e8-1dc6-41f6-88c8-1bb3a17d372c")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -5960,7 +5992,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*")
 		(path "/c1b28aab-84d8-4332-939c-9e45648fe278")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -5.06)
@@ -6371,7 +6403,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6fd7109a-c10e-4847-a398-152582806d10")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -6596,7 +6628,7 @@
 		(property ki_fp_filters "SOT?23?5*")
 		(path "/96548423-a8c2-4fd6-af22-67f534d6118f")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -6923,7 +6955,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/d55a4c8d-534e-44d0-8adc-7be338953485")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -7232,7 +7264,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/024f0461-d1ea-4ac6-af67-851d341a0591")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -7459,7 +7491,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bba20d3f-8faf-4fe3-b7a5-88772e082c4e")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -7686,7 +7718,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/07b70a56-64d5-48fe-8f77-1a0d34e249d8")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -7913,7 +7945,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5e33604b-416a-4e52-a693-5f32a481e891")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -8136,7 +8168,7 @@
 		)
 		(path "/27faf37e-04cf-4df4-b349-7113232c56f8")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 9.3345 -42.164)
@@ -8967,7 +8999,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/599b13b0-789e-4eb0-9264-8b65c7fe47fc")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -9194,7 +9226,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5d5f21c2-a33d-4bf1-b8d5-22efbff0e857")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -9421,7 +9453,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/21c7af91-d248-4628-aad7-98e7eab22995")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -9648,7 +9680,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2e3fa150-a707-4d38-946e-58a814bf00d3")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -9872,7 +9904,7 @@
 		)
 		(path "/82db7a9b-9baa-4266-9dcf-32a5b3622b6d")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 14.08 -1.33)
@@ -10396,6 +10428,18 @@
 			)
 		)
 		(model "/home/venomix/KiCadProjects/dipstep/DIP-32 W15.24mm IC with Socket.stp"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 90)
+			)
+		)
+		(model "${KIPRJMOD}/Local_lib/step_files/DIP-32 W15.24mm IC with Socket.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11312,7 +11356,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/ba42c58c-028f-4bb5-ba5d-6e010a80459b")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 4.435)
@@ -11691,7 +11735,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9e986505-f316-4836-b5d8-e59032f7dbd9")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -11918,7 +11962,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d6a939a5-e47a-4b38-9338-d3f86eb4cec2")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -12145,7 +12189,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c284ef71-cae7-49ec-bf57-d049ed58343d")
 		(sheetname "/")
-		(sheetfile "SNES-sdcard-ps2.kicad_sch")
+		(sheetfile "SuperCPM65.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
