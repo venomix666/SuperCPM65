@@ -7,7 +7,7 @@
 	(title_block
 		(title "Super CP/M 65")
 		(date "2025-03-17")
-		(rev "PA4")
+		(rev "PA5")
 	)
 	(lib_symbols
 		(symbol "65xx-library:W65C22NxP"
